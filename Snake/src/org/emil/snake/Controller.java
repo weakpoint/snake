@@ -1,10 +1,6 @@
 package org.emil.snake;
 
 import java.awt.event.KeyEvent;
-import java.awt.event.KeyListener;
-
-import org.emil.snake.exception.ColisionException;
-import org.emil.snake.model.MoveDirection;
 
 public class Controller implements WindowController {
 
